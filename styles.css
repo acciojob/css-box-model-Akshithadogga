@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+*{
+	font-weight:bolder;
+}
+.box-model{
+	border:15px solid blue;
+	padding:50px;
+	background-color:lightblue;
+	margin:20px;
+}
+.under-padding{
+	border:solid black;
+	padding:25px
+}
+/* #padding-right{
+	text-align:end;
+} */
+#arrow{
+	text-align: center;
+}
+.inner{
+	border:dotted;
+	
+}
+body{
+	border:2px solid black;
+}
+	
+}
