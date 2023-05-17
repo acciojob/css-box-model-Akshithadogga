@@ -1,27 +1,2 @@
 
 /* Your CSS Code here. */
-*{
-	font-weight:bolder;
-}
-.box-model{
-	border:15px solid blue;
-	padding:25px;
-	background-color:lightblue;
-	margin:20px;
-}
-.under-padding{
-	border:solid black;
-	padding:25px;
-}
-.inner{
-	border:dotted;
-	
-}
-p{
-	padding:5px;
-}
-body{
-	border:2px solid black;
-}
-	
-}
