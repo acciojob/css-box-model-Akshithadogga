@@ -5,23 +5,20 @@
 }
 .box-model{
 	border:15px solid blue;
-	padding:50px;
+	padding:25px;
 	background-color:lightblue;
 	margin:20px;
 }
 .under-padding{
 	border:solid black;
-	padding:25px
-}
-/* #padding-right{
-	text-align:end;
-} */
-#arrow{
-	text-align: center;
+	padding:25px;
 }
 .inner{
 	border:dotted;
 	
+}
+p{
+	padding:5px;
 }
 body{
 	border:2px solid black;
